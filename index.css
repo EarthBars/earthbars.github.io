@@ -78,7 +78,9 @@ header {
 
     background:transparent;
 
-    color:#fff;
+    color:#ffffff;
+    
+    transition:0.4s ease-in;
 
     z-index:2;
 
@@ -134,13 +136,13 @@ header table {
 
     color:#fff;
 
-    transition:0.4s ease-in-out;
+    transition:0.4s ease-in;
 
 }
 
 #magnify h1:hover{
 
-    color:#fff;
+    color:#ffffff;
 
     cursor:pointer;
 
