@@ -124,7 +124,7 @@ header table {
 
 }
 
-#magnify h1 {
+#magnify h2 {
 
     position:absolute;
 
@@ -140,7 +140,7 @@ header table {
 
 }
 
-#magnify h1:hover{
+#magnify h2:hover{
 
     color:#ffffff;
 
@@ -348,7 +348,7 @@ header table {
 
 }
 
-#work h1 {
+#work h2 {
 
     padding:5px 0px;
 
@@ -402,7 +402,7 @@ header table {
 
 }
 
-#bio h1 {
+#bio h2 {
 
     padding:5px 0px;
 
@@ -420,7 +420,7 @@ header table {
 
 }
 
-#contact h1 {
+#contact h2 {
 
     padding:5px 0px;
 
