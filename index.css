@@ -48,9 +48,9 @@ body {
 
     height:50px;
 
-    border:12px solid #24468a;
+    border:12px solid #fff;
 
-    border-bottom:12px solid #24468a;
+    border-bottom:12px solid #fff;
 
     border-radius:50%;
 
@@ -166,7 +166,7 @@ header table {
 
     font-size:24px;
 
-    color:#2232bf;
+    color:#fff;
 
 }
 
