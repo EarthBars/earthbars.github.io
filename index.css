@@ -48,7 +48,7 @@ body {
 
     height:50px;
 
-    border:12px solid #fff;
+    border:12px solid #2525a1;
 
     border-bottom:12px solid #fff;
 
@@ -78,7 +78,7 @@ header {
 
     background:transparent;
 
-    color:#24468a;
+    color:#fff;
 
     transition:0.4s ease-in-out;
 
@@ -166,7 +166,7 @@ header table {
 
     font-size:24px;
 
-    color:#fff;
+    color:#19194f;
 
 }
 
