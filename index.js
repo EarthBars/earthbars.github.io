@@ -6,7 +6,7 @@ if ((width >= 1000)){
 
     if(document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
 
-        $("#header").css("background","#fff");
+        $("#header").css("background","#2232bf");
 
         $("#header").css("color","#000");
 
