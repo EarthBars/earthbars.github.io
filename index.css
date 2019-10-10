@@ -50,7 +50,7 @@ body {
 
     border:12px solid rgb(255, 44, 90);
 
-    border-bottom:12px solid #fff;
+    border-bottom:12px solid #24468a;
 
     border-radius:50%;
 
@@ -134,7 +134,7 @@ header table {
 
     margin:20px 40px;
 
-    color:#fff;
+    color:#24468a;
 
     transition:0.4s ease-in-out;
 
@@ -142,7 +142,7 @@ header table {
 
 #magnify h1:hover{
 
-    color:rgb(255, 44, 90);
+    color:#24468a;
 
     cursor:pointer;
 
@@ -280,7 +280,7 @@ header table {
 
     color:#fff;
 
-    background:rgb(255, 44, 90);
+    background:#24468a;
 
     box-shadow:0px 10px 30px rgba(255, 66, 107,0.8);
 
@@ -294,7 +294,7 @@ header table {
 
     color:#2232bf;
 
-    background:#fff;
+    background:#24468a;
 
     border:3px solid #2232bf;
 
@@ -314,7 +314,7 @@ header table {
 
 .btn_one:hover {
 
-    box-shadow:0px 10px 30px rgba(255, 44, 90, 0.8);
+    box-shadow:0px 10px 30px #24468a;
 
     cursor:pointer;
 
@@ -352,7 +352,7 @@ header table {
 
     padding:5px 0px;
 
-    border-bottom:4px solid rgb(255, 44, 90);
+    border-bottom:4px solid #24468a;
 
     width:6%;
 
@@ -406,7 +406,7 @@ header table {
 
     padding:5px 0px;
 
-    border-bottom:4px solid rgb(255, 44, 90);
+    border-bottom:4px solid #24468a;
 
     width:8%;
 
@@ -424,7 +424,7 @@ header table {
 
     padding:5px 0px;
 
-    border-bottom:4px solid rgb(255, 44, 90);
+    border-bottom:4px solid #24468a;
 
     width:10%;
 
@@ -476,7 +476,7 @@ header table {
 
     border:0px;
 
-    border-bottom:3px solid rgba(255, 44, 90,0.5);
+    border-bottom:3px solid #24468a;
 
     padding:8px 10px;
 
@@ -502,7 +502,7 @@ header table {
 
     border:0px;
 
-    border-bottom:3px solid rgba(255, 44, 90,0.5);
+    border-bottom:3px solid #24468a;
 
     padding:8px 10px;
 
@@ -526,7 +526,7 @@ header table {
 
     outline:none;
 
-    border-bottom:3px solid rgba(255, 44, 90,1);
+    border-bottom:3px solid #24468a;
 
 }
 
@@ -534,7 +534,7 @@ header table {
 
     outline:none;
 
-    border-bottom:3px solid rgba(255, 44, 90,1);
+    border-bottom:3px solid #24468a;
 
 }
 
@@ -698,7 +698,7 @@ button:focus {
 
     .btn_one:hover {
 
-        box-shadow:0px 10px 40px rgba(255, 44, 90, 0.8);
+        box-shadow:0px 10px 40px #24468a;
 
         cursor:pointer;
 
@@ -774,7 +774,7 @@ button:focus {
 
     #navigation a {
 
-        color:#000;
+        color:#24468a;
 
     }
 
