@@ -326,11 +326,11 @@ header table {
 
 #rightImage {
     width:100%;
+    
     height:95vh;
     
-    #grad {
-    background:linear-gradient(blue, white);url,("https://unsplash.com/photos/MsoAoPmm3Bw") center center;
-    }
+    background: url,("https://unsplash.com/photos/MsoAoPmm3Bw") center center;
+    
     background-size:cover;
         
     background-repeat:no-repeat;
