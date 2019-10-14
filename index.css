@@ -329,7 +329,7 @@ header table {
     height:95vh;
     
     #grad {
-    background:linear-gradient(to bottom right, blue, black);url,("https://images.unsplash.com/photo-1506057527569-6a0285b2fcc1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=60") center center;
+    background:linear-gradient(blue, white);url,("https://unsplash.com/photos/MsoAoPmm3Bw") center center;
     }
     background-size:cover;
         
